@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaoquanhui.
+- 👋 Hi, I’m @Mr.Gao
 - 👀 I’m interested in computer.
 - 🌱 I’m currently learning python,html,css,c,and java.
 - 💞️ I’m looking to collaborate on ...
